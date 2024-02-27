@@ -1,0 +1,10 @@
+site_name: pytest-modalt
+site_description: Massively distributed pytest runs using modal.com
+site_author: Bryce Drennan
+
+theme: readthedocs
+
+repo_url: https://github.com/brycedrennan/pytest-modalt
+
+pages:
+- Home: index.md
