@@ -1,4 +1,4 @@
-# pytest-modalT(est)
+# pytest-modal-t(est)
 
 ## Run all your tests at the same time with modal.com *
 
